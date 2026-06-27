@@ -1,0 +1,14 @@
+C:\Users\TAMARA\Desktop\ComprobanteElectronico\ComprobanteElectronico\bin\Debug\net10.0\ComprobanteElectronico.exe
+C:\Users\TAMARA\Desktop\ComprobanteElectronico\ComprobanteElectronico\bin\Debug\net10.0\ComprobanteElectronico.deps.json
+C:\Users\TAMARA\Desktop\ComprobanteElectronico\ComprobanteElectronico\bin\Debug\net10.0\ComprobanteElectronico.runtimeconfig.json
+C:\Users\TAMARA\Desktop\ComprobanteElectronico\ComprobanteElectronico\bin\Debug\net10.0\ComprobanteElectronico.dll
+C:\Users\TAMARA\Desktop\ComprobanteElectronico\ComprobanteElectronico\bin\Debug\net10.0\ComprobanteElectronico.pdb
+C:\Users\TAMARA\Desktop\ComprobanteElectronico\ComprobanteElectronico\obj\Debug\net10.0\ComprobanteElectronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAMARA\Desktop\ComprobanteElectronico\ComprobanteElectronico\obj\Debug\net10.0\ComprobanteElectronico.AssemblyInfoInputs.cache
+C:\Users\TAMARA\Desktop\ComprobanteElectronico\ComprobanteElectronico\obj\Debug\net10.0\ComprobanteElectronico.AssemblyInfo.cs
+C:\Users\TAMARA\Desktop\ComprobanteElectronico\ComprobanteElectronico\obj\Debug\net10.0\ComprobanteElectronico.csproj.CoreCompileInputs.cache
+C:\Users\TAMARA\Desktop\ComprobanteElectronico\ComprobanteElectronico\obj\Debug\net10.0\ComprobanteElectronico.dll
+C:\Users\TAMARA\Desktop\ComprobanteElectronico\ComprobanteElectronico\obj\Debug\net10.0\refint\ComprobanteElectronico.dll
+C:\Users\TAMARA\Desktop\ComprobanteElectronico\ComprobanteElectronico\obj\Debug\net10.0\ComprobanteElectronico.pdb
+C:\Users\TAMARA\Desktop\ComprobanteElectronico\ComprobanteElectronico\obj\Debug\net10.0\ComprobanteElectronico.genruntimeconfig.cache
+C:\Users\TAMARA\Desktop\ComprobanteElectronico\ComprobanteElectronico\obj\Debug\net10.0\ref\ComprobanteElectronico.dll

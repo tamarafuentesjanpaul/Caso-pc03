@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ComprobanteElectronico/1.0.0": {
+        "runtime": {
+          "ComprobanteElectronico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ComprobanteElectronico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
